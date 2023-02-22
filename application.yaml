@@ -12,7 +12,7 @@ microservice:
     endpoints:
       endpoint:
         uri :
-          - http://localhost:90911/book/bookOrder
+          - http://localhost:9091/book/bookOrder
           
 payment-service:
   endpoints:
